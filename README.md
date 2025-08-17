@@ -1,5 +1,4 @@
-# ChatGPT Market Positioning & Segmentation  
-**Arizona State University | Feb 2025 – Mar 2025**
+# ChatGPT Market Positioning & Segmentation 
 
 ## 🚀 Project Overview  
 This project analyzed ChatGPT’s competitive positioning versus DeepSeek, Gemini, Copilot, and Claude. Using perceptual mapping and stated preference analysis, we assessed consumer perceptions, identified distinct user segments, and simulated market-share outcomes for hypothetical entrants.  
